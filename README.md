@@ -6,7 +6,7 @@ Submitted by: **Devin Ling**
 
 Time spent: **6** hours spent in total
 
-Link to project: (https://curvy-melodic-plot.glitch.me/)
+Link to project: (https://glitch.com/edit/#!/curvy-melodic-plot?path=README.md+%3A1%3A0)
 
 ## Required Functionality
 
